@@ -4,4 +4,5 @@
  * Stellwerksfehler
  * technische Störung
  * Polizeieinsatz
+ * Personalausfall im Stellwerk
  * ...
